@@ -1,4 +1,4 @@
-package pl.cobaltan.recomendationservice.Recomendation;
+package pl.cobaltan.recomendationservice.Recomendationv2;
 
 import pl.cobaltan.recomendationservice.AnalyticsService;
 

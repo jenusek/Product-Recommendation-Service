@@ -1,11 +1,10 @@
-package pl.cobaltan.recomendationservice.Recomendation;
+package pl.cobaltan.recomendationservice.Recomendationv2;
 
 import com.google.api.services.analyticsreporting.v4.model.DateRangeValues;
 import com.google.api.services.analyticsreporting.v4.model.Report;
 import com.google.api.services.analyticsreporting.v4.model.ReportRow;
 import pl.cobaltan.recomendationservice.AnalyticsService;
 import pl.cobaltan.recomendationservice.Product;
-import pl.cobaltan.recomendationservice.Recomendation.Recomendation;
 
 import java.util.ArrayList;
 import java.util.List;

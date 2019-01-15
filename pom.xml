@@ -32,8 +32,8 @@
 
         <dependency>
             <groupId>com.google.apis</groupId>
-            <artifactId>google-api-services-analytics</artifactId>
-            <version>v3-rev159-1.25.0</version>
+            <artifactId>google-api-services-analyticsreporting</artifactId>
+            <version>v4-rev128-1.25.0</version>
         </dependency>
     </dependencies>
 
